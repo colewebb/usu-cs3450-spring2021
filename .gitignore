@@ -36,3 +36,6 @@ src/**/*.css.map
 .session.vim
 __pycache__/
 *.sqlite3
+
+# mine
+*.png
